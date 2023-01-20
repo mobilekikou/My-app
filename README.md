@@ -15,15 +15,15 @@ This project is a translator app that can translate text from one language to an
 
 # Dependencies
 
-Java 8 or later
-Firebase Cloud Translation API
+- Java 8 or later
+- Firebase Cloud Translation API
 
 # Usage
-Open the app
-Select the language you want to translate from and to
-Type or paste the text you want to translate
-Press the translate button
-The translated text will be displayed
+- Open the app
+- Select the language you want to translate from and to
+- Type or paste the text you want to translate
+- Press the translate button
+- The translated text will be displayed
 
 
 # Contribute
