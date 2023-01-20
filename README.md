@@ -5,14 +5,12 @@ This project is a translator app that can translate text from one language to an
 
 # Configuration
 
-Install the latest version of Java on your machine.
-Install an IDE (e.g. Eclipse or IntelliJ IDEA) to run the app.
-
-
-Download the project files from the repository.
-In your Firebase project, enable the Cloud Translation API and generate an API key.
-Replace the placeholder API key in the strings.xml file with your generated API key.
-Build and run the project on your IDE.
+- Install the latest version of Java on your machine. 
+- Install an IDE (e.g. Eclipse or IntelliJ IDEA) to run the app.
+- Download the project files from the repository.
+- In your Firebase project, enable the Cloud Translation API and generate an API key.
+- Replace the placeholder API key in the strings.xml file with your generated API key.
+- Build and run the project on your IDE.
 
 
 # Dependencies
